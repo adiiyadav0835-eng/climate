@@ -1,0 +1,6 @@
+{
+  "name": "Climate-Aware Emergency Response Network (CAERN)",
+  "description": "GIS-based emergency response and disaster simulation platform for flood, cyclone, and heatwave response optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
